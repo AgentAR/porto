@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/porto/static/css/main.e6c13ad2.css",
+    "main.js": "/porto/static/js/main.49fe68e9.js",
+    "index.html": "/porto/index.html",
+    "main.e6c13ad2.css.map": "/porto/static/css/main.e6c13ad2.css.map",
+    "main.49fe68e9.js.map": "/porto/static/js/main.49fe68e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.49fe68e9.js"
+  ]
+}
